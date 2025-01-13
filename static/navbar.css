@@ -1,0 +1,33 @@
+.sidebar{
+    background-color: white;
+    position: fixed;
+
+    width: 85px;
+
+    top: 70px;
+    bottom: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+.bar-link{
+    background-color: white;
+    height: 85px;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}.bar-link:hover{
+    background-color: #dadadacc;
+
+}.bar-link:active{
+    opacity: 80%;
+}
+.bar-link img{
+    width: 30px;
+    margin-bottom: 5px;
+}
+.bar-link div{
+    font-size: 12px;
+}
