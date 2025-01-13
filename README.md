@@ -41,10 +41,6 @@ This project is a simple YouTube clone created while following a tutorial by **S
 - Tutorial by [SuperSimpleDev](https://www.youtube.com/c/SuperSimpleDev)
 - Additional inspiration from YouTube's interface.
 
-## Feedback
-
-Feel free to share your feedback or suggestions by opening an issue in the repository or reaching out via email at your-email@example.com.
-
 ## License
 
 This project is for educational purposes only and is not intended for commercial use. YouTube and its design are trademarks of Google LLC.
